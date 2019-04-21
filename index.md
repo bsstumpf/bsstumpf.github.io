@@ -3,4 +3,4 @@
 
 I am currently a student at UNCG working on a degree in Computer Science.
 
-<img src="/mandelbrot.png">
+<img src="/octocat.png">
